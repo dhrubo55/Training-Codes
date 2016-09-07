@@ -1,0 +1,17 @@
+
+<Employee>
+
+<Emp id="1001">
+  <name>Dhrubo</name>
+  <salary>60000</salary>
+  <location>Dhaka</location>
+</Emp>
+
+
+<Emp id="1003">
+  <name>Sadia</name>
+  <salary>60000</salary>
+  <location>Dhaka</location>
+</Emp>
+
+</Employee>
